@@ -137,3 +137,4 @@ rm style.css
 touch styles.css
 clear
 ls --color=auto
+touch index.js
