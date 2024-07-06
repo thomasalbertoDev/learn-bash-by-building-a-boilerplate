@@ -242,3 +242,6 @@ ls --color=auto
 find
 find -name src
 find -name images
+mv header ./client/assets/images
+ls --color=auto
+mv header.png ./client/assets/images
