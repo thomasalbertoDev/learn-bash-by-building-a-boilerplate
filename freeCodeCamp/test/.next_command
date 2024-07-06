@@ -318,3 +318,9 @@ rm ./client/assets/fonts/lato-bold.ttf
 touch ./client/assets/fonts/lato-bold.ttf
 touch ./client/assets/fonts/lato-light.ttf
 find
+find
+rmdir ./fonts
+find
+rm -r ./fonts
+find
+rm --help
