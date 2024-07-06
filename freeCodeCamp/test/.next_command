@@ -168,3 +168,4 @@ touch freeCodeCamp.svg
 ls --color=auto
 clear
 mkdir images
+ls --color=auto
