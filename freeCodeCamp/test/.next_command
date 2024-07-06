@@ -230,3 +230,4 @@ mkdir assets
 cd assets
 ls --color=auto
 mkdir images
+cd images
