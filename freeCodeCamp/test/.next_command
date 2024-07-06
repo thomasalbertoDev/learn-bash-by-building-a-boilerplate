@@ -206,3 +206,5 @@ mv menlo.otf fonts
 find
 clear
 mkdir client
+ls --color=auto
+mkdir client/src
