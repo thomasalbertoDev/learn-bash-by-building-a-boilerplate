@@ -309,3 +309,10 @@ touch ./client/assets/fonts/roboto-bold.woff
 touch ./client/assets/fonts/roboto-light.woff
 clear
 find ./client/assets/fonts
+touch ./client/assets/fonts/lato-bold.woff
+find ./client/assets/fonts
+rm ./client/assets/fonts/lato-bold.woff
+ls --color=auto
+find
+rm ./client/assets/fonts/lato-bold.ttf
+touch ./client/assets/fonts/lato-bold.ttf
