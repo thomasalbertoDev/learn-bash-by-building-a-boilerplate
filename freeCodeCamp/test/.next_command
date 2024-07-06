@@ -227,3 +227,4 @@ find
 cd client
 clear
 mkdir assets
+cd assets
