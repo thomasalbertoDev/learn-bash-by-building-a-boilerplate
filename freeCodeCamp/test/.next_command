@@ -268,3 +268,4 @@ cd ../
 rm images/background.jpg
 ls --color=auto
 rmdir images
+ls --color=auto
