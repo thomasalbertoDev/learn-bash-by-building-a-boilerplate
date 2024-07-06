@@ -225,3 +225,5 @@ find -name src
 tree
 find
 cd client
+clear
+mkdir assets
