@@ -113,3 +113,5 @@ cd src
 list
 clear
 ls --color=auto
+more
+more index.js
