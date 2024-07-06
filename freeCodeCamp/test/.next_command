@@ -253,3 +253,16 @@ fin
 find
 ls --color=auto
 rmdir images
+ls --color=auto
+rm -r images
+ls --color=auto
+rm images
+rm website/images
+ls --color=auto
+mkdir images
+ls --color=auto
+cd images
+touch background.jpg
+clear
+cd ../
+rm images/background.jpg
