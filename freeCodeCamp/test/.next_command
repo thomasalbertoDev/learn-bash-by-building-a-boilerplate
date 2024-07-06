@@ -150,3 +150,5 @@ cd website
 cd .
 clear
 touch background.jpg
+cd header.png
+touch header.png
