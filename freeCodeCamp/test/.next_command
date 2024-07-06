@@ -209,3 +209,5 @@ mkdir client
 ls --color=auto
 mkdir client/src
 mv index.html client/src
+__vsc_prompt_cmd_original
+find
