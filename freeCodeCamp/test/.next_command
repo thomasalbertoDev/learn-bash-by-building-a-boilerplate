@@ -307,3 +307,5 @@ find
 rm ./roboto-bold.woff
 touch ./client/assets/fonts/roboto-bold.woff
 touch ./client/assets/fonts/roboto-light.woff
+clear
+find ./client/assets/fonts
