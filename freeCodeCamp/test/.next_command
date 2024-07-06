@@ -208,3 +208,4 @@ clear
 mkdir client
 ls --color=auto
 mkdir client/src
+mv index.html client/src
