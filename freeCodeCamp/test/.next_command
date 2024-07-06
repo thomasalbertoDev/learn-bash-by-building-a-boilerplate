@@ -198,3 +198,7 @@ mkdir fonts
 ls --color=auto
 mv roboto.woff fonts
 find
+cd fonts
+cd ../
+ls --color=auto
+mv lato.ttf fonts
