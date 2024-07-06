@@ -144,3 +144,7 @@ ls --color=auto -l
 ls --color=auto --help
 clear
 ls --color=auto -a
+cd ..
+ls --color=auto
+cd website
+cd .
