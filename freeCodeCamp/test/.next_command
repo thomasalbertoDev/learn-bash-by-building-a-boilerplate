@@ -59,3 +59,7 @@ ls --color=auto
 pwd
 ls --color=auto -l
 cd ..
+cd test
+cd ..
+pwd
+ls --color=auto
