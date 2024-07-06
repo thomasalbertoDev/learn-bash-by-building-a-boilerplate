@@ -228,3 +228,5 @@ cd client
 clear
 mkdir assets
 cd assets
+ls --color=auto
+mkdir images
