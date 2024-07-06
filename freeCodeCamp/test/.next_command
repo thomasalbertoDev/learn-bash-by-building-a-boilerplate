@@ -135,3 +135,5 @@ touch style.css
 ls --color=auto
 rm style.css
 touch styles.css
+clear
+ls --color=auto
