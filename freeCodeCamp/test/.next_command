@@ -266,3 +266,5 @@ touch background.jpg
 clear
 cd ../
 rm images/background.jpg
+ls --color=auto
+rmdir images
