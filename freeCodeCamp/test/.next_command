@@ -177,3 +177,4 @@ cd ..
 clear
 pwd
 ls --color=auto
+rm background.jpg
