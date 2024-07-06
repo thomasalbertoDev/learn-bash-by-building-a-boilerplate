@@ -288,3 +288,5 @@ mv CodeAlly.svg ./client/assets/icons
 free
 tree
 find
+ls --color=auto
+mv CodeRoad.svg ./client/assets/icons
